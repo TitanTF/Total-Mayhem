@@ -1,5 +1,1 @@
-Total Mayhem
----
-Gives the game more action by increasing move speed, reload and fire rate, clip size.
-
-#### Requires TF2 Attributes
+### Requires [TF2 Attributes](https://github.com/FlaminSarge/tf2attributes/archive/master.zip)
